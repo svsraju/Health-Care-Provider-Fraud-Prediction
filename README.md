@@ -63,6 +63,12 @@ I have initially selected a model based on manual hyperparamters and then tried 
 
 * TN: 960, FP:21, FN:57,TP:44
 
+
+__base Model Decision Tree__
+
+![model_best](https://user-images.githubusercontent.com/46058709/73575184-40424480-443d-11ea-9464-d106d7a3eb99.png)
+
+
 ### Test Results : GridSearch
 
 * Mean accuracy0.9288720538720538 
@@ -76,6 +82,9 @@ I have initially selected a model based on manual hyperparamters and then tried 
 * F1 Score 0.6196
 
 * TN: 955, FP:26, FN:44,TP:57
+
+__Grid search Decision Tree__
+![gsearch](https://user-images.githubusercontent.com/46058709/73575090-ff4a3000-443c-11ea-8ce0-8f9ce94879a4.png)
 
 I have Improvement in my Test results For Grid Search. Eventhough the values did not change a lot, it can be seen that the values have improved.
 
